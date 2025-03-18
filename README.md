@@ -8,6 +8,10 @@
 
 A sleek and minimalist typing test application built with Vue, designed to help users improve their typing speed and accuracy. Challenge yourself with quotes of varying difficulty levels and track your progress with real-time metrics.
 
+## 🌐 Live Demo
+
+**[Check out the live demo here!](https://cseri502.github.io/type-master/)**
+
 ## 🚀 Technologies & Tools
 
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
